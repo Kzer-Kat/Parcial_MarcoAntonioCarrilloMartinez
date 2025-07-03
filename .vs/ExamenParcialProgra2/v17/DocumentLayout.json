@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion\\ExamenParcialProgra2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C75539F-032A-34C3-76AA-6760C632D993}|Assembly-CSharp.csproj|d:\\escuela\\cuarto tetra\\progamacion\\examenparcialprogra2\\assets\\parcial\\scripts\\obstacles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C75539F-032A-34C3-76AA-6760C632D993}|Assembly-CSharp.csproj|solutionrelative:assets\\parcial\\scripts\\obstacles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C75539F-032A-34C3-76AA-6760C632D993}|Assembly-CSharp.csproj|D:\\ESCUELA\\CUARTO TETRA\\Progamacion\\ExamenParcialProgra2\\assets\\parcial\\scripts\\destroyobstacule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C75539F-032A-34C3-76AA-6760C632D993}|Assembly-CSharp.csproj|solutionrelative:assets\\parcial\\scripts\\destroyobstacule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C75539F-032A-34C3-76AA-6760C632D993}|Assembly-CSharp.csproj|D:\\ESCUELA\\CUARTO TETRA\\Progamacion\\ExamenParcialProgra2\\assets\\parcial\\scripts\\scrollbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C75539F-032A-34C3-76AA-6760C632D993}|Assembly-CSharp.csproj|solutionrelative:assets\\parcial\\scripts\\scrollbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ESCUELA\\CUARTO TETRA\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\DESTRUIR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ESCUELA\\CUARTO TETRA\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\OBSTACULOS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ESCUELA\\CUARTO TETRA\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\PLAYERMOVE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ESCUELA\\CUARTO TETRA\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\BACKGROUND.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OBSTACLES.cs",
+              "DocumentMoniker": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\OBSTACLES.cs",
+              "RelativeDocumentMoniker": "Assets\\PARCIAL\\SCRIPTS\\OBSTACLES.cs",
+              "ToolTip": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\OBSTACLES.cs",
+              "RelativeToolTip": "Assets\\PARCIAL\\SCRIPTS\\OBSTACLES.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:13:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DESTROYOBSTACULE.cs",
+              "DocumentMoniker": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\DESTROYOBSTACULE.cs",
+              "RelativeDocumentMoniker": "Assets\\PARCIAL\\SCRIPTS\\DESTROYOBSTACULE.cs",
+              "ToolTip": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\DESTROYOBSTACULE.cs",
+              "RelativeToolTip": "Assets\\PARCIAL\\SCRIPTS\\DESTROYOBSTACULE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:00:51.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SCROLLBACKGROUND.cs",
+              "DocumentMoniker": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\SCROLLBACKGROUND.cs",
+              "RelativeDocumentMoniker": "Assets\\PARCIAL\\SCRIPTS\\SCROLLBACKGROUND.cs",
+              "ToolTip": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\SCROLLBACKGROUND.cs",
+              "RelativeToolTip": "Assets\\PARCIAL\\SCRIPTS\\SCROLLBACKGROUND.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:00:33.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DESTRUIR.cs",
+              "DocumentMoniker": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\DESTRUIR.cs",
+              "RelativeDocumentMoniker": "..\\..\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\DESTRUIR.cs",
+              "ToolTip": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\DESTRUIR.cs",
+              "RelativeToolTip": "..\\..\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\DESTRUIR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:10:16.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OBSTACULOS.cs",
+              "DocumentMoniker": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\OBSTACULOS.cs",
+              "RelativeDocumentMoniker": "..\\..\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\OBSTACULOS.cs",
+              "ToolTip": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\OBSTACULOS.cs",
+              "RelativeToolTip": "..\\..\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\OBSTACULOS.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:04:35.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PLAYERMOVE.cs",
+              "DocumentMoniker": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\PLAYERMOVE.cs",
+              "RelativeDocumentMoniker": "..\\..\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\PLAYERMOVE.cs",
+              "ToolTip": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\PLAYERMOVE.cs",
+              "RelativeToolTip": "..\\..\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\PLAYERMOVE.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwEgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:55:33.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BACKGROUND.cs",
+              "DocumentMoniker": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\BACKGROUND.cs",
+              "RelativeDocumentMoniker": "..\\..\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\BACKGROUND.cs",
+              "ToolTip": "D:\\ESCUELA\\CUARTO TETRA\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\BACKGROUND.cs",
+              "RelativeToolTip": "..\\..\\Progamacion del ese wey\\ExamenParcialProgra2\\Assets\\PARCIAL\\SCRIPTS\\BACKGROUND.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:15:25.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

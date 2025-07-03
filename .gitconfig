@@ -1,0 +1,12 @@
+[core]
+	autocrlf = true
+[user]
+	name = Asra_gt
+	email = tenmapegaso1@gmail.com
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[credential "helperselector"]
+	selected = manager
